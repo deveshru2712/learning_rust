@@ -1,4 +1,4 @@
-// loop -> infinite loop until the condition is not meant
+// loop -> infinite loop until the condition resolve to true
 
 // while -> conditional loop until the condition is true
 
